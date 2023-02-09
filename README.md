@@ -14,4 +14,4 @@ This repo contains a solution of the first test task.
   
  2. Image processing.
  
-  Task is carried out in "Cloth processing.ipynb" Colab-notebook. I've just reversed the mask and applied it to background to make it blue, simple as that.
+  Task is carried out in "Cloth processing.ipynb" Colab-notebook. I've just reversed the mask and applied it to the background to make it blue, that's it.
