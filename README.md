@@ -3,7 +3,7 @@ This repo contains a solution of the test task.
 
 1. Image scraping. 
 
-  Scraping is carried out by test_scraper.py. I have managed to scrape 114 items to "download" folder, images were directly downloaded into two folders 
+  Scraping is carried out by test_scraper.py. I have managed to scrape 114 items to "download" folder, images were directly downloaded into two subfolders 
   (with person and without person). The scraper ignored pages without photos with persons (like this https://goo.su/KPZf) and successfully collected the right ones, 
   so I'd consider this task done. 
   
