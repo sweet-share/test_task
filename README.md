@@ -4,7 +4,7 @@ This repo contains a solution of the first test task.
 1. Image scraping. 
 
   Scraping is carried out by test_scraper.py. I have maneged to scrape 114 items to "download" folder, images were directly downloaded into two folders 
-  (with person and without person). The craper ignored pages without photos with persons (like this https://goo.su/KPZf) and successfully collected the right ones, 
+  (with person and without person). The scraper ignored pages without photos with persons (like this https://goo.su/KPZf) and successfully collected the right ones, 
   so I'd consider this task done. 
   
   Unfortunately, there were three pages with confused order of images (e.g. https://goo.su/0k0AoYW), so the images with persons were downloaded to folder without persons, and vice versa. 
