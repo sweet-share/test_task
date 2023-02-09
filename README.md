@@ -1,4 +1,4 @@
-This repo contains a solution of the first test task.
+This repo contains a solution of the test task.
 
 
 1. Image scraping. 
